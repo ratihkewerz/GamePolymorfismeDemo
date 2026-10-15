@@ -1,0 +1,14 @@
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\Polymor.GeneratedMSBuildEditorConfig.editorconfig
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\Polymor.AssemblyInfoInputs.cache
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\Polymor.AssemblyInfo.cs
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\Polymor.csproj.CoreCompileInputs.cache
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\bin\Debug\net10.0\Polymor.exe
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\bin\Debug\net10.0\Polymor.deps.json
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\bin\Debug\net10.0\Polymor.runtimeconfig.json
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\bin\Debug\net10.0\Polymor.dll
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\bin\Debug\net10.0\Polymor.pdb
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\Polymor.dll
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\refint\Polymor.dll
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\Polymor.pdb
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\Polymor.genruntimeconfig.cache
+C:\PGIM\Pak Ofik\GamePolimorfismeDemo\Polymor\obj\Debug\net10.0\ref\Polymor.dll
